@@ -27,5 +27,6 @@ To leverage **data, modern analytics tools, and statistical insights** to drive 
 ---
 
 📫 **Connect with me:**  
-- [LinkedIn](https://www.linkedin.com/in/vimalathethan-i-120260323)  
+- [LinkedIn](https://www.linkedin.com/in/vimalathethan-i)  
 - [Email Me](mailto:vimalaadhi3008@gmail.com)
+
