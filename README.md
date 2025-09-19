@@ -1,4 +1,4 @@
-# Hi, I’m VIMALATHETHAN I – a Data Analyst driving insights, Automating workflows, and building Data Engineering solutions📊
+# Hi, I’m VIMALATHETHAN I – a Data Analyst driving insights, automating workflows, and building data engineering solutions📊
 
 ✨ **About Me**  
 I’m an **Electronics and Communication Engineering (ECE) student with a minor in Artificial Intelligence and Data Science**. I bridge the gap between **technical expertise and business impact**, transforming raw data into **actionable insights** that drive strategic growth.  
