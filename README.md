@@ -6,7 +6,8 @@ I’m an **Electronics and Communication Engineering (ECE) student with a minor 
 
 ## 🛠 Technical Toolbox
 - **Databases:** SQL (PostgreSQL, MySQL), Snowflake  
-- **Programming & Analytics:** Python (NumPy,Pandas, Matplotlib, Seaborn), Feature Engineering, Statistics (Descriptive, Probability Distributions, Inferential Statistics, Hypothesis Testing)  
+- **Programming & Analytics:** Python (NumPy,Pandas, Matplotlib, Seaborn), Feature Engineering,
+Statistics (Descriptive, Probability Distributions, Inferential Statistics, Hypothesis Testing)  
 - **Visualization & BI:** Power BI, Advanced Excel  
 - **Automation:** n8n, Make, Power Automate  
 - **Data Engineering:** ETL pipelines, Data Extraction & Storage, Data Transformation, Data Warehousing & Analytics  
